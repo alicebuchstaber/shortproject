@@ -1,0 +1,27 @@
+==Release Notes_Venn==
+
+Compiler of Release Notes: Dalton Maag
+Designer: Dalton Maag
+Designer URL: daltonmaag.com
+
+Date of Creation: 2018-02-16
+
+Changes Since Previous Release:
+- This is the first release.
+
+Basic Information
+1 Font name: Venn
+2 TrueType Version record: 1.000
+3 Supported scripts: Latin
+4 Number of glyphs: 501
+5 Weights/Styles: Condensed Light, SemiCondensed Light, Light, SemiExtended Light, Extended Light, Condensed Regular, SemiCondensed Regular, Regular, SemiExtended Regular, Extended Regular, Condensed Medium, SemiCondensed Medium, Medium, SemiExtended Medium, Extended Medium, Condensed Bold, SemiCondensed Bold, Bold, SemiExtended Bold, Extended Bold, Condensed ExtraBold, SemiCondensed ExtraBold, ExtraBold, SemiExtended ExtraBold, Extended ExtraBold
+6 Usage: Text and Display
+
+Technology
+1 File formats: The files have been delivered in the TrueType-based OpenType format, for use in all major Operating Systems, and also as TTF for use in apps, and in web font format: EOT; WOFF; WOFF2.
+2 Embedding settings: Editing of the document is allowed (editable mode); subsetting is allowed.
+3 Hinting information: All glyphs are manually hinted for optimized rasterization in Microsoft ClearType or for other LCD devices.
+4 Default numerals: Tabular. Proportional figures accessible via OpenType features.
+
+Other Information
+Standard release autohinted with TTFAutohint 1.7
